@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Van Seleem Frequencies</title>
+    <description>Your Journey Through Trance Music</description>
+    <language>en-us</language>
+    <itunes:author>Van Seleem</itunes:author>
+    <itunes:image href="https://drive.google.com/uc?export=download&id=1hmEF6mMcjQWq3DEQKw9CydKCceQXABs1"/>
+    
+    <item>
+      <title>Sonic Mirage</title>
+      <description>Experience the mesmerizing journey of Sonic Mirage</description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0" length="1" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jan 2025 15:00:00 GMT</pubDate>
+      <guid>1</guid>
+      <itunes:image href="https://drive.google.com/uc?export=download&id=1EG9XqSejraocUg2tLiIwvaBjdyWZab-E"/>
+    </item>
+  </channel>
+</rss>
