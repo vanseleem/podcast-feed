@@ -6,11 +6,11 @@
     <language>en-us</language>
     <itunes:author>Van Seleem</itunes:author>
     <itunes:image href="https://drive.google.com/uc?export=download&id=1hmEF6mMcjQWq3DEQKw9CydKCceQXABs1"/>
-    
+
     <item>
       <title>Sonic Mirage</title>
       <description>Experience the mesmerizing journey of Sonic Mirage</description>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0" length="1" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0" length="140000" type="audio/mpeg"/>
       <pubDate>Wed, 03 Jan 2025 15:00:00 GMT</pubDate>
       <guid>1</guid>
       <itunes:image href="https://drive.google.com/uc?export=download&id=1EG9XqSejraocUg2tLiIwvaBjdyWZab-E"/>
