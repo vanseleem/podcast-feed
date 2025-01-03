@@ -19,7 +19,9 @@
 <itunes:email>vanseleem@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https://drive.google.com/file/d/1hmEF6mMcjQWq3DEQKw9CydKCceQXABs1/view?usp=drive_link"/>
-<itunes:category text="Music"/>
+<itunes:category text="Music">
+    <itunes:category text="Music History"/>
+</itunes:category>
 <itunes:explicit>no</itunes:explicit>
 <item>
 <itunes:episodeType>full</itunes:episodeType>
@@ -29,8 +31,9 @@
 <description>
 <![CDATA[ <p>A Timeless Journey Through Classic Trance</p> ]]>
 </description>
-<content:encoded><p>A Timeless Journey Through Classic Trance</p></content:encoded>
-<enclosure length="89367196" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link"/>
+<itunes:summary>Experience a mesmerizing journey through the golden era of trance music. This episode features carefully selected classics that defined the genre, bringing back the pure essence of trance's emotional core.</itunes:summary>
+<content:encoded><![CDATA[<p>A Timeless Journey Through Classic Trance</p><p>Experience a mesmerizing journey through the golden era of trance music. This episode features carefully selected classics that defined the genre, bringing back the pure essence of trance's emotional core.</p>]]></content:encoded>
+<enclosure length="89367196" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link/episode1.mp3"/>
 <guid isPermaLink="false">a00025ec-3329-47e0-ba82-0e91c1aa824c</guid>
 <link>https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link</link>
 <pubDate>Fri, 03 Jan 2025 14:33:36 +0000</pubDate>
@@ -46,8 +49,9 @@
 <description>
 <![CDATA[ <p>Melodic And Progressive House Lovers, This Is For You!</p> ]]>
 </description>
-<content:encoded><p>Melodic And Progressive House Lovers, This Is For You!</p></content:encoded>
-<enclosure length="57728522" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link"/>
+<itunes:summary>Dive into a carefully crafted selection of melodic and progressive house tracks. This episode takes you on a journey through lush soundscapes and driving rhythms that define the modern progressive house scene.</itunes:summary>
+<content:encoded><![CDATA[<p>Melodic And Progressive House Lovers, This Is For You!</p><p>Dive into a carefully crafted selection of melodic and progressive house tracks. This episode takes you on a journey through lush soundscapes and driving rhythms that define the modern progressive house scene.</p>]]></content:encoded>
+<enclosure length="57728522" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link/episode2.mp3"/>
 <guid isPermaLink="false">94215d62-1d1a-41da-a2f0-3716396653b7</guid>
 <link>https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link</link>
 <pubDate>Fri, 03 Jan 2025 14:17:26 +0000</pubDate>
@@ -63,8 +67,9 @@
 <description>
 <![CDATA[ <p>Bringing You the Finest Vocal House Bangers.</p> ]]>
 </description>
-<content:encoded><p>Bringing You the Finest Vocal House Bangers.</p></content:encoded>
-<enclosure length="59223980" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link"/>
+<itunes:summary>Get ready for an uplifting journey through the best of vocal house music. This episode showcases powerful vocals combined with energetic beats that will lift your spirits and move your feet.</itunes:summary>
+<content:encoded><![CDATA[<p>Bringing You the Finest Vocal House Bangers.</p><p>Get ready for an uplifting journey through the best of vocal house music. This episode showcases powerful vocals combined with energetic beats that will lift your spirits and move your feet.</p>]]></content:encoded>
+<enclosure length="59223980" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link/episode3.mp3"/>
 <guid isPermaLink="false">9acdbafb-a23f-4a8e-a1fb-7ab8f9b6b431</guid>
 <link>https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link</link>
 <pubDate>Fri, 03 Jan 2025 14:05:54 +0000</pubDate>
@@ -80,8 +85,9 @@
 <description>
 <![CDATA[ <p>Tranceology, Where Emotion Meets the Beat.</p> ]]>
 </description>
-<content:encoded><p>Tranceology, Where Emotion Meets the Beat.</p></content:encoded>
-<enclosure length="57600626" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link"/>
+<itunes:summary>Welcome to Tranceology, where emotional melodies merge with powerful beats. This episode explores the cutting edge of modern trance music while paying homage to the genre's timeless elements.</itunes:summary>
+<content:encoded><![CDATA[<p>Tranceology, Where Emotion Meets the Beat.</p><p>Welcome to Tranceology, where emotional melodies merge with powerful beats. This episode explores the cutting edge of modern trance music while paying homage to the genre's timeless elements.</p>]]></content:encoded>
+<enclosure length="57600626" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link/episode4.mp3"/>
 <guid isPermaLink="false">cd8b0944-20ac-4df1-83e0-14b50636981e</guid>
 <link>https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link</link>
 <pubDate>Fri, 03 Jan 2025 13:47:52 +0000</pubDate>
