@@ -1,19 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Van Seleem Frequencies</title>
-    <description>Your Journey Through Trance Music</description>
-    <language>en-us</language>
-    <itunes:author>Van Seleem</itunes:author>
-    <itunes:image href="https://drive.google.com/uc?export=download&id=1hmEF6mMcjQWq3DEQKw9CydKCceQXABs1"/>
-
-    <item>
-      <title>Sonic Mirage</title>
-      <description>Experience the mesmerizing journey of Sonic Mirage</description>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0" length="140000" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Jan 2025 15:00:00 GMT</pubDate>
-      <guid>1</guid>
-      <itunes:image href="https://drive.google.com/uc?export=download&id=1EG9XqSejraocUg2tLiIwvaBjdyWZab-E"/>
-    </item>
-  </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<channel>
+<generator>RedCircle VERIFY_TOKEN_4eafe196-44e1-4320-a331-e36e32172893 -- Rendered At Fri, 03 Jan 2025 20:16:43 +0000</generator>
+<title>Van Seleem Frequencies</title>
+<link>https://drive.google.com/drive/folders/1UzesNibnNyK0d2zzrx61xkKCBPIRvr1k?usp=drive_link</link>
+<language>en-US</language>
+<copyright>All rights reserved.</copyright>
+<itunes:author>Van Seleem</itunes:author>
+<itunes:summary>From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem.</itunes:summary>
+<podcast:guid>4eafe196-44e1-4320-a331-e36e32172893</podcast:guid>
+<description>
+<![CDATA[ <p>From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem.</p> ]]>
+</description>
+<itunes:type>episodic</itunes:type>
+<podcast:locked>no</podcast:locked>
+<itunes:owner>
+<itunes:name>Van Seleem</itunes:name>
+<itunes:email>vanseleem@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://drive.google.com/file/d/1hmEF6mMcjQWq3DEQKw9CydKCceQXABs1/view?usp=drive_link"/>
+<itunes:category text="Music"/>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Echoes Of The Heart</itunes:title>
+<title>Echoes Of The Heart</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>A Timeless Journey Through Classic Trance</p> ]]>
+</description>
+<content:encoded><p>A Timeless Journey Through Classic Trance</p></content:encoded>
+<enclosure length="89367196" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link"/>
+<guid isPermaLink="false">a00025ec-3329-47e0-ba82-0e91c1aa824c</guid>
+<link>https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 14:33:36 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1vyfWtn9_zQCRmvtxQwvtu5GPCu2Il7ng/view?usp=drive_link"/>
+<itunes:duration>5585</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Sonic Mirage</itunes:title>
+<title>Sonic Mirage</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Melodic And Progressive House Lovers, This Is For You!</p> ]]>
+</description>
+<content:encoded><p>Melodic And Progressive House Lovers, This Is For You!</p></content:encoded>
+<enclosure length="57728522" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link"/>
+<guid isPermaLink="false">94215d62-1d1a-41da-a2f0-3716396653b7</guid>
+<link>https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 14:17:26 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1EG9XqSejraocUg2tLiIwvaBjdyWZab-E/view?usp=drive_link"/>
+<itunes:duration>3608</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Euphoria Rising</itunes:title>
+<title>Euphoria Rising</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Bringing You the Finest Vocal House Bangers.</p> ]]>
+</description>
+<content:encoded><p>Bringing You the Finest Vocal House Bangers.</p></content:encoded>
+<enclosure length="59223980" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link"/>
+<guid isPermaLink="false">9acdbafb-a23f-4a8e-a1fb-7ab8f9b6b431</guid>
+<link>https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 14:05:54 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1vyfWtn9_zQCRmvtxQwvtu5GPCu2Il7ng/view?usp=drive_link"/>
+<itunes:duration>3701</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Tranceology</itunes:title>
+<title>Tranceology</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Tranceology, Where Emotion Meets the Beat.</p> ]]>
+</description>
+<content:encoded><p>Tranceology, Where Emotion Meets the Beat.</p></content:encoded>
+<enclosure length="57600626" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link"/>
+<guid isPermaLink="false">cd8b0944-20ac-4df1-83e0-14b50636981e</guid>
+<link>https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 13:47:52 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1EG9XqSejraocUg2tLiIwvaBjdyWZab-E/view?usp=drive_link"/>
+<itunes:duration>3600</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+</channel>
 </rss>
