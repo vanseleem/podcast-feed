@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 <channel>
 <generator>RedCircle VERIFY_TOKEN_4eafe196-44e1-4320-a331-e36e32172893 -- Rendered At Fri, 03 Jan 2025 20:16:43 +0000</generator>
 <title>Van Seleem Frequencies</title>
-<link>https://hearthis.at/vanseleem/</link>
+<link>https://redcircle.com/shows/vanseleem-frequencies</link>
 <language>en-US</language>
 <copyright>All rights reserved.</copyright>
 <itunes:author>Van Seleem</itunes:author>
@@ -18,10 +17,8 @@
 <itunes:name>Van Seleem</itunes:name>
 <itunes:email>vanseleem@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="https://u.pcloud.link/publink/show?code=XZjuzJ5ZsqoanS8Fc1FUWun2zxwzXbSd4AW7"/>
-<itunes:category text="Music">
-<itunes:category text="Music History"/>
-</itunes:category>
+<itunes:image href="https://media.redcircle.com/images/2025/1/3/13/13e4d745-460d-45f9-a280-3eee0bf48fcc_f-9868-c6463efbf6f2_van_seleem_frequencies__1_.jpg"/>
+<itunes:category text="Music"/>
 <itunes:explicit>no</itunes:explicit>
 <item>
 <itunes:episodeType>full</itunes:episodeType>
@@ -31,14 +28,64 @@
 <description>
 <![CDATA[ <p>A Timeless Journey Through Classic Trance</p> ]]>
 </description>
-<itunes:summary>Experience a mesmerizing journey through the golden era of trance music. This episode features carefully selected classics that defined the genre, bringing back the pure essence of trance's emotional core.</itunes:summary>
-<content:encoded><![CDATA[<p>A Timeless Journey Through Classic Trance</p><p>Experience a mesmerizing journey through the golden era of trance music. This episode features carefully selected classics that defined the genre, bringing back the pure essence of trance's emotional core.</p>]]></content:encoded>
-<enclosure length="89367196" type="audio/mpeg" url="https://u.pcloud.link/publink/show?code=XZSF7J5ZLB7uYfeqqqFHu1sCMi8CLkEp1Qak&filename=your_file.mp3"/>
+<content:encoded><p>A Timeless Journey Through Classic Trance</p></content:encoded>
+<enclosure length="89367196" type="audio/mpeg" url="https://audio3.redcircle.com/episodes/5fe1eb03-862c-4849-9882-ff00170eda0a/stream.mp3"/>
 <guid isPermaLink="false">a00025ec-3329-47e0-ba82-0e91c1aa824c</guid>
-<link>https://u.pcloud.link/publink/show?code=XZSF7J5ZLB7uYfeqqqFHu1sCMi8CLkEp1Qak&filename=your_file.mp3</link>
+<link>https://redcircle.com/shows/4eafe196-44e1-4320-a331-e36e32172893/episodes/5fe1eb03-862c-4849-9882-ff00170eda0a</link>
 <pubDate>Fri, 03 Jan 2025 14:33:36 +0000</pubDate>
-<itunes:image href="https://u.pcloud.link/publink/show?code=XZfuzJ5ZaLJbspo54NjjybC0fewSyLFCxi37&filename=your_file.png"/>
+<itunes:image href="https://media.redcircle.com/images/2025/1/3/14/0f4fa37f-ad79-4f6d-997f-e4a729cf11f8_echoes_of_the_heart.jpg"/>
 <itunes:duration>5585</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Sonic Mirage</itunes:title>
+<title>Sonic Mirage</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Melodic And Progressive House Lovers, This Is For You!</p><p>Download Link: <a href="https://bit.ly/sonic-mirage" rel="nofollow">bit.ly/sonic-mirage</a></p> ]]>
+</description>
+<content:encoded><p>Melodic And Progressive House Lovers, This Is For You!</p><p>Download Link: <a href="https://bit.ly/sonic-mirage" rel="nofollow">bit.ly/sonic-mirage</a></p></content:encoded>
+<enclosure length="57728522" type="audio/mpeg" url="https://audio3.redcircle.com/episodes/60c066fc-e63b-455a-8fe5-c54fa648e9f6/stream.mp3"/>
+<guid isPermaLink="false">94215d62-1d1a-41da-a2f0-3716396653b7</guid>
+<link>https://redcircle.com/shows/4eafe196-44e1-4320-a331-e36e32172893/episodes/60c066fc-e63b-455a-8fe5-c54fa648e9f6</link>
+<pubDate>Fri, 03 Jan 2025 14:17:26 +0000</pubDate>
+<itunes:image href="https://media.redcircle.com/images/2025/1/3/16/8ea6b5c8-8e7a-4d7e-a0a7-f77377faa301_7753a-6ac9-4c4f-945e-48a4fe991a03_sonic_mirage.jpg"/>
+<itunes:duration>3608</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Euphoria Rising</itunes:title>
+<title>Euphoria Rising</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Bringing You the Finest Vocal House Bangers.</p> ]]>
+</description>
+<content:encoded><p>Bringing You the Finest Vocal House Bangers.</p></content:encoded>
+<enclosure length="59223980" type="audio/mpeg" url="https://audio3.redcircle.com/episodes/9fee1b70-b007-4e7d-a675-27eafa869b6b/stream.mp3"/>
+<guid isPermaLink="false">9acdbafb-a23f-4a8e-a1fb-7ab8f9b6b431</guid>
+<link>https://redcircle.com/shows/4eafe196-44e1-4320-a331-e36e32172893/episodes/9fee1b70-b007-4e7d-a675-27eafa869b6b</link>
+<pubDate>Fri, 03 Jan 2025 14:05:54 +0000</pubDate>
+<itunes:image href="https://media.redcircle.com/images/2025/1/3/13/9be57a74-ac64-4e41-bb41-fe82c4b6f190_euphoria_rising.jpg"/>
+<itunes:duration>3701</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Tranceology</itunes:title>
+<title>Tranceology</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Tranceology, Where Emotion Meets the Beat.</p> ]]>
+</description>
+<content:encoded><p>Tranceology, Where Emotion Meets the Beat.</p></content:encoded>
+<enclosure length="57600626" type="audio/mpeg" url="https://audio3.redcircle.com/episodes/5d998628-80d7-4836-aa91-18cb3b9dd97c/stream.mp3"/>
+<guid isPermaLink="false">cd8b0944-20ac-4df1-83e0-14b50636981e</guid>
+<link>https://redcircle.com/shows/4eafe196-44e1-4320-a331-e36e32172893/episodes/5d998628-80d7-4836-aa91-18cb3b9dd97c</link>
+<pubDate>Fri, 03 Jan 2025 13:47:52 +0000</pubDate>
+<itunes:image href="https://media.redcircle.com/images/2025/1/3/13/77d7269b-67b9-431f-93a8-6b2e3524256d_tranceology.jpg"/>
+<itunes:duration>3600</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 </item>
 </channel>
