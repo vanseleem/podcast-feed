@@ -1,52 +1,93 @@
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 <channel>
-<atom:link href="https://hearthis.at/vanseleem/podcast/" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 03 Jan 2025 22:29:37 +0100</lastBuildDate>
+<generator>RedCircle VERIFY_TOKEN_4eafe196-44e1-4320-a331-e36e32172893 -- Rendered At Fri, 03 Jan 2025 20:16:43 +0000</generator>
 <title>Van Seleem Frequencies</title>
-<link>https://hearthis.at/vanseleem/</link>
-<language>en-EN</language>
-<copyright>
-<![CDATA[ All Rights Reserved ]]>
-</copyright>
-<itunes:subtitle>
-<![CDATA[ Podcast of vanseleem ]]>
-</itunes:subtitle>
-<itunes:author>
-<![CDATA[ Van Seleem ]]>
-</itunes:author>
-<googleplay:author>
-<![CDATA[ Van Seleem ]]>
-</googleplay:author>
-<itunes:summary>
-<![CDATA[ From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem ]]>
-</itunes:summary>
-<googleplay:description>
-<![CDATA[ From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem. ]]>
-</googleplay:description>
+<link>https://drive.google.com/drive/folders/1UzesNibnNyK0d2zzrx61xkKCBPIRvr1k?usp=drive_link</link>
+<language>en-US</language>
+<copyright>All rights reserved.</copyright>
+<itunes:author>Van Seleem</itunes:author>
+<itunes:summary>From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem.</itunes:summary>
+<podcast:guid>4eafe196-44e1-4320-a331-e36e32172893</podcast:guid>
 <description>
-<![CDATA[ From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem. ]]>
+<![CDATA[ <p>From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem.</p> ]]>
 </description>
+<itunes:type>episodic</itunes:type>
+<podcast:locked>no</podcast:locked>
 <itunes:owner>
-<itunes:name>
-<![CDATA[ Van Seleem ]]>
-</itunes:name>
+<itunes:name>Van Seleem</itunes:name>
 <itunes:email>vanseleem@gmail.com</itunes:email>
 </itunes:owner>
-<googleplay:image href="https://img.hearthis.at/2/1/2/_/uploads/11104087/image_user/w1400_h1400_q70_ptrue_v2_m1735928051----cropped_1735928032212.jpg?m=1735928051"/>
-<itunes:image href="https://www.mediafire.com/file/a2yf7pioze0ra7z/Echoes_of_the_Heart.png/file"/>
-<googleplay:owner>vanseleem@gmail.com</googleplay:owner>
-<image>
-<link>https://hearthis.at/vanseleem/</link>
-<title>Van Seleem Frequencies</title>
-<url>https://www.mediafire.com/file/a2yf7pioze0ra7z/Echoes_of_the_Heart.png/file</url>
-</image>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:explicit>no</itunes:explicit>
-<category>
-<![CDATA[ Music ]]>
-</category>
-<googleplay:category text="Music"/>
+<itunes:image href="https://drive.google.com/file/d/1hmEF6mMcjQWq3DEQKw9CydKCceQXABs1/view?usp=drive_link"/>
 <itunes:category text="Music"/>
-<itunes:keywords>
-<![CDATA[ ]]>
-</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Echoes Of The Heart</itunes:title>
+<title>Echoes Of The Heart</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>A Timeless Journey Through Classic Trance</p> ]]>
+</description>
+<content:encoded><p>A Timeless Journey Through Classic Trance</p></content:encoded>
+<enclosure length="89367196" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link"/>
+<guid isPermaLink="false">a00025ec-3329-47e0-ba82-0e91c1aa824c</guid>
+<link>https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 14:33:36 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1vyfWtn9_zQCRmvtxQwvtu5GPCu2Il7ng/view?usp=drive_link"/>
+<itunes:duration>5585</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Sonic Mirage</itunes:title>
+<title>Sonic Mirage</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Melodic And Progressive House Lovers, This Is For You!</p> ]]>
+</description>
+<content:encoded><p>Melodic And Progressive House Lovers, This Is For You!</p></content:encoded>
+<enclosure length="57728522" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link"/>
+<guid isPermaLink="false">94215d62-1d1a-41da-a2f0-3716396653b7</guid>
+<link>https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 14:17:26 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1EG9XqSejraocUg2tLiIwvaBjdyWZab-E/view?usp=drive_link"/>
+<itunes:duration>3608</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Euphoria Rising</itunes:title>
+<title>Euphoria Rising</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Bringing You the Finest Vocal House Bangers.</p> ]]>
+</description>
+<content:encoded><p>Bringing You the Finest Vocal House Bangers.</p></content:encoded>
+<enclosure length="59223980" type="audio/mpeg" url="https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link"/>
+<guid isPermaLink="false">9acdbafb-a23f-4a8e-a1fb-7ab8f9b6b431</guid>
+<link>https://drive.google.com/file/d/1mOpMVgVnoSVZ4sfKjSHR4uop5Rkpgv5_/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 14:05:54 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1vyfWtn9_zQCRmvtxQwvtu5GPCu2Il7ng/view?usp=drive_link"/>
+<itunes:duration>3701</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Tranceology</itunes:title>
+<title>Tranceology</title>
+<itunes:author>Van Seleem</itunes:author>
+<description>
+<![CDATA[ <p>Tranceology, Where Emotion Meets the Beat.</p> ]]>
+</description>
+<content:encoded><p>Tranceology, Where Emotion Meets the Beat.</p></content:encoded>
+<enclosure length="57600626" type="audio/mpeg" url="https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link"/>
+<guid isPermaLink="false">cd8b0944-20ac-4df1-83e0-14b50636981e</guid>
+<link>https://drive.google.com/file/d/1RD45pSRNEtxfvoslolvCxGMI_Ck7O3x0/view?usp=drive_link</link>
+<pubDate>Fri, 03 Jan 2025 13:47:52 +0000</pubDate>
+<itunes:image href="https://drive.google.com/file/d/1EG9XqSejraocUg2tLiIwvaBjdyWZab-E/view?usp=drive_link"/>
+<itunes:duration>3600</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+</channel>
+</rss>
