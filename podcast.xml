@@ -1,170 +1,44 @@
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 <channel>
-<atom:link href="https://hearthis.at/vanseleem/podcast/" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 03 Jan 2025 22:29:37 +0100</lastBuildDate>
+<generator>RedCircle VERIFY_TOKEN_4eafe196-44e1-4320-a331-e36e32172893 -- Rendered At Fri, 03 Jan 2025 20:16:43 +0000</generator>
 <title>Van Seleem Frequencies</title>
-<link>https://hearthis.at/vanseleem/</link>
-<language>en-EN</language>
-<copyright>
-<![CDATA[ All Rights Reserved ]]>
-</copyright>
-<itunes:subtitle>
-<![CDATA[ Podcast of vanseleem ]]>
-</itunes:subtitle>
-<itunes:author>
-<![CDATA[ Van Seleem ]]>
-</itunes:author>
-<googleplay:author>
-<![CDATA[ Van Seleem ]]>
-</googleplay:author>
-<itunes:summary>
-<![CDATA[ From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem ]]>
-</itunes:summary>
-<googleplay:description>
-<![CDATA[ From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem. ]]>
-</googleplay:description>
+<link>https://www.mediafire.com/folder/6pfjmnygwhjdc/Van_Seleem_Frequencies</link>
+<language>en-US</language>
+<copyright>All rights reserved.</copyright>
+<itunes:author>Van Seleem</itunes:author>
+<itunes:summary>From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem.</itunes:summary>
+<podcast:guid>4eafe196-44e1-4320-a331-e36e32172893</podcast:guid>
 <description>
-<![CDATA[ From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem. ]]>
+<![CDATA[ <p>From Trance to House, Progressive, and everything in between, this show transcends boundaries, offering a unique experience for dance music enthusiasts everywhere. Crafted and unleashed by Van Seleem.</p> ]]>
 </description>
+<itunes:type>episodic</itunes:type>
+<podcast:locked>no</podcast:locked>
 <itunes:owner>
-<itunes:name>
-<![CDATA[ Van Seleem ]]>
-</itunes:name>
+<itunes:name>Van Seleem</itunes:name>
 <itunes:email>vanseleem@gmail.com</itunes:email>
 </itunes:owner>
-<googleplay:image href="https://img.hearthis.at/2/1/2/_/uploads/11104087/image_user/w1400_h1400_q70_ptrue_v2_m1735928051----cropped_1735928032212.jpg?m=1735928051"/>
-<itunes:image href="https://img.hearthis.at/2/1/2/_/uploads/11104087/image_user/w1400_h1400_q70_ptrue_v2_m1735928051----cropped_1735928032212.jpg?m=1735928051"/>
-<googleplay:owner>vanseleem@gmail.com</googleplay:owner>
-<image>
-<link>https://hearthis.at/vanseleem/</link>
-<title>Van Seleem Frequencies</title>
-<url>https://img.hearthis.at/2/1/2/_/uploads/11104087/image_user/w1400_h1400_q70_ptrue_v2_m1735928051----cropped_1735928032212.jpg?m=1735928051</url>
-</image>
-<googleplay:explicit>no</googleplay:explicit>
+<itunes:image href="https://www.mediafire.com/view/matpuxpc82cybml/Van_Seleem_Frequencies_%25281%2529.png/file"/>
+<itunes:category text="Music">
+    <itunes:category text="Music History"/>
+</itunes:category>
 <itunes:explicit>no</itunes:explicit>
-<category>
-<![CDATA[ Music ]]>
-</category>
-<googleplay:category text="Music"/>
-<itunes:category text="Music"/>
-<itunes:keywords>
-<![CDATA[ ]]>
-</itunes:keywords>
 <item>
-<title>
-<![CDATA[ Echoes Of The Heart ]]>
-</title>
-<link>https://hearthis.at/vanseleem/echoes-of-the-heart/</link>
-<itunes:author>
-<![CDATA[ Van Seleem ]]>
-</itunes:author>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>Echoes Of The Heart</itunes:title>
+<title>Echoes Of The Heart</title>
+<itunes:author>Van Seleem</itunes:author>
 <description>
-<![CDATA[ A Timeless Journey Through Classic Trance.<br /> Download Link: https://bit.ly/sonic-mirage ]]>
+<![CDATA[ <p>A Timeless Journey Through Classic Trance</p> ]]>
 </description>
-<googleplay:description>
-<![CDATA[ A Timeless Journey Through Classic Trance.<br /> Download Link: https://bit.ly/sonic-mirage ]]>
-</googleplay:description>
-<itunes:summary>
-<![CDATA[ A Timeless Journey Through Classic Trance. Download Link: https://bit.ly/sonic-mirage ]]>
-</itunes:summary>
-<itunes:image href="https://img.hearthis.at/4/7/6/_/uploads/11104087/image_track/11623829/w1400_h1400_q70_ptrue_v2_m1735928254----cropped_1735928251674.jpg?m=1735928254"/>
-<enclosure type="audio/mpeg" url="https://hearthis.at/vanseleem/echoes-of-the-heart/listen.mp3?s=0Cm" length="225392091"/>
-<guid isPermaLink="false">11623829</guid>
-<category>
-<![CDATA[ Music ]]>
-</category>
-<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>Experience a mesmerizing journey through the golden era of trance music. This episode features carefully selected classics that defined the genre, bringing back the pure essence of trance's emotional core.</itunes:summary>
+<content:encoded><![CDATA[<p>A Timeless Journey Through Classic Trance</p><p>Experience a mesmerizing journey through the golden era of trance music. This episode features carefully selected classics that defined the genre, bringing back the pure essence of trance's emotional core.</p>]]></content:encoded>
+<enclosure length="225380352" type="audio/mpeg" url="https://www.mediafire.com/file/tm0ieidb5xto1av/Echoes_of_the_Heart.mp3/file"/>
+<guid isPermaLink="false">a00025ec-3329-47e0-ba82-0e91c1aa824c</guid>
+<link>https://www.mediafire.com/file/tm0ieidb5xto1av/Echoes_of_the_Heart.mp3/file</link>
+<pubDate>Fri, 03 Jan 2025 14:33:36 +0000</pubDate>
+<itunes:image href="https://www.mediafire.com/view/cbl51ld3btuux2f/Echoes_of_the_Heart.png/file"/>
+<itunes:duration>5585</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Fri, 27 Dec 2024 22:07:23 +0100</pubDate>
-<atom:updated>2024-12-27T22:07:23+01:00</atom:updated>
-<itunes:duration>1:33:05</itunes:duration>
-</item>
-<item>
-<title>
-<![CDATA[ Sonic Mirage ]]>
-</title>
-<link>https://hearthis.at/vanseleem/sonic-mirage/</link>
-<itunes:author>
-<![CDATA[ Van Seleem ]]>
-</itunes:author>
-<description>
-<![CDATA[ Melodic And Progressive House Lovers, This One's For You.<br /> Download Link: bit.ly/echoes-of-the-heart ]]>
-</description>
-<googleplay:description>
-<![CDATA[ Melodic And Progressive House Lovers, This One's For You.<br /> Download Link: bit.ly/echoes-of-the-heart ]]>
-</googleplay:description>
-<itunes:summary>
-<![CDATA[ Melodic And Progressive House Lovers, This One's For You. Download Link: bit.ly/echoes-of-the-heart ]]>
-</itunes:summary>
-<itunes:image href="https://img.hearthis.at/7/5/5/_/uploads/11104087/image_track/11549716/w1400_h1400_q70_ptrue_v2_m1735928232----cropped_1735928227557.jpg?m=1735928232"/>
-<enclosure type="audio/mpeg" url="https://hearthis.at/vanseleem/sonic-mirage/listen.mp3?s=1o5r3" length="147117446"/>
-<guid isPermaLink="false">11549716</guid>
-<category>
-<![CDATA[ Music ]]>
-</category>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Fri, 06 Dec 2024 20:29:41 +0100</pubDate>
-<atom:updated>2024-12-06T20:29:41+01:00</atom:updated>
-<itunes:duration>1:00:08</itunes:duration>
-</item>
-<item>
-<title>
-<![CDATA[ Euphoria Rising ]]>
-</title>
-<link>https://hearthis.at/vanseleem/the-rise-of-progressive-house/</link>
-<itunes:author>
-<![CDATA[ Van Seleem ]]>
-</itunes:author>
-<description>
-<![CDATA[ Bringing You the Finest Vocal House Bangers.<br /> ]]>
-</description>
-<googleplay:description>
-<![CDATA[ Bringing You the Finest Vocal House Bangers.<br /> ]]>
-</googleplay:description>
-<itunes:summary>
-<![CDATA[ Bringing You the Finest Vocal House Bangers. ]]>
-</itunes:summary>
-<itunes:image href="https://img.hearthis.at/2/0/4/_/uploads/11104087/image_track/11517755/w1400_h1400_q70_ptrue_v2_m1735928283----cropped_1735928279402.jpg?m=1735928283"/>
-<enclosure type="audio/mpeg" url="https://hearthis.at/vanseleem/the-rise-of-progressive-house/listen.mp3?s=wHa" length="150676300"/>
-<guid isPermaLink="false">11517755</guid>
-<category>
-<![CDATA[ Music ]]>
-</category>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Mon, 25 Nov 2024 06:20:18 +0100</pubDate>
-<atom:updated>2024-11-25T06:20:18+01:00</atom:updated>
-<itunes:duration>1:01:41</itunes:duration>
-</item>
-<item>
-<title>
-<![CDATA[ Tranceology ]]>
-</title>
-<link>https://hearthis.at/vanseleem/tranceology/</link>
-<itunes:author>
-<![CDATA[ Van Seleem ]]>
-</itunes:author>
-<description>
-<![CDATA[ Tranceology, Where Emotion Meets the Beat.<br /> ]]>
-</description>
-<googleplay:description>
-<![CDATA[ Tranceology, Where Emotion Meets the Beat.<br /> ]]>
-</googleplay:description>
-<itunes:summary>
-<![CDATA[ Tranceology, Where Emotion Meets the Beat. ]]>
-</itunes:summary>
-<itunes:image href="https://img.hearthis.at/5/6/9/_/uploads/11104087/image_track/11479725/w1400_h1400_q70_ptrue_v2_m1735928357----cropped_1735928351965.jpg?m=1735928357"/>
-<enclosure type="audio/mpeg" url="https://hearthis.at/vanseleem/tranceology/listen.mp3?s=qzP0T" length="146445513"/>
-<guid isPermaLink="false">11479725</guid>
-<category>
-<![CDATA[ Music ]]>
-</category>
-<googleplay:explicit>no</googleplay:explicit>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Wed, 06 Nov 2024 03:14:10 +0100</pubDate>
-<atom:updated>2024-11-06T03:14:10+01:00</atom:updated>
-<itunes:duration>1:00:00</itunes:duration>
 </item>
 </channel>
 </rss>
